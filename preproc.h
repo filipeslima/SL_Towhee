@@ -65,7 +65,7 @@
 #define MAXTHREEBOND 5
 
 /* vectormax = the max number of reciprocal vectors for Ewald sum */
-#define MAXKMAX 12
+#define MAXKMAX 20
 #define VECTORMAX 3*MAXKMAX*MAXKMAX*MAXKMAX
 
 /* maxblock = the maximum number of blocks for a block average */
